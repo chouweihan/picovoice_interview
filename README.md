@@ -5,6 +5,8 @@ email: chouweihan@gmail.com
 
 hosted at: [https://picovoice-weihan.netlify.app/](https://picovoice-weihan.netlify.app/)
 
+Redesigns made mainly using Typescript and React
+
 ## Pytorch redesign
 My redesign focused on 2 points.
 

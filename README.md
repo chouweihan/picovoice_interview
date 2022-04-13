@@ -8,9 +8,12 @@ hosted at: [https://picovoice-weihan.netlify.app/pytorch](https://picovoice-weih
 
 ## Pytorch redesign
 My redesign focused on 2 points.
+
 Making the options look more uniform, and making the options into dropdown instead of buttons.
-This is a better design because it will scale better into the future. If more and more options are added, 
-having more buttons is unrealistic.
+
+This is a better design because it will scale better into the future. 
+
+If more and more options are added, having more buttons is unrealistic.
 
 
 ## Google widget redesign

@@ -1,6 +1,3 @@
-# picovoice_interview
-interview for picovoice questions
-
 ## Info
 Wei-Han Chou
 

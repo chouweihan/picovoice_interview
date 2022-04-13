@@ -1,7 +1,7 @@
 # picovoice_interview
 interview for picovoice questions
 
-##Info
+## Info
 Wei-Han Chou
 
 email: chouweihan@gmail.com

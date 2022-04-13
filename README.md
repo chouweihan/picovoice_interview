@@ -21,4 +21,5 @@ The same concept applies here. With focus on "7-20" languages (and possibly more
 It is better to use drop down.
 
 I have implemented 2 ways, one is a simple dropdown list with the languages sorted alphabetically.
+
 The second is a typeahead functionality in which user can search for the language they wish to use.

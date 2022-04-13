@@ -3,7 +3,9 @@ interview for picovoice questions
 
 ##Info
 Wei-Han Chou
+
 email: chouweihan@gmail.com
+
 hosted at: [https://picovoice-weihan.netlify.app/pytorch](https://picovoice-weihan.netlify.app/pytorch)
 
 ## Pytorch redesign

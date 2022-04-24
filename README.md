@@ -6,6 +6,7 @@ hosted at: [https://picovoice-weihan.netlify.app/](https://picovoice-weihan.netl
 
 Redesigns made mainly using Typescript and React
 
+You can find the questions in the QUESTIONS.pdf file in the root directory
 
 ## Pytorch redesign
 My redesign focused on 2 points.
